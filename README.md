@@ -2,7 +2,7 @@
 
 An invoice management application with authentication, invoice creation, and management capabilities.
 
-![Invoice Management System](https://via.placeholder.com/800x400?text=Invoice+Management+System)
+![Invoice Management System](https://invoice-management-app.example.com)
 
 ## 📋 Project Overview
 
