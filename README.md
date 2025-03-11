@@ -2,7 +2,7 @@
 
 An invoice management application with authentication, invoice creation, and management capabilities.
 
-![Invoice Management System](https://invoice-management-app.example.com)
+![Invoice Management System](https://github.com/navbiswas133/Invoice-Management-System)
 
 ## 📋 Project Overview
 
@@ -37,7 +37,7 @@ This project is a comprehensive invoice management system built with Vue.js and 
 
 ## 🚀 Live Demo
 
-The application is deployed and accessible at: [https://invoice-management-app.example.com](https://invoice-management-app.example.com)
+The application is deployed and accessible at: [https://invoice-management-app.example.com](https://invoice-management-system-g4l3.vercel.app/)
 
 
 ## 📸 Screenshots
