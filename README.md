@@ -16,7 +16,6 @@ This project is a comprehensive invoice management system built with Vue.js and 
 - **Real-time Calculations**: Dynamic pricing calculations within invoice forms
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
 
-### Website Screenshorts
 
 ## 🛠️ Technologies Used
 
@@ -40,78 +39,32 @@ This project is a comprehensive invoice management system built with Vue.js and 
 
 The application is deployed and accessible at: [https://invoice-management-app.example.com](https://invoice-management-app.example.com)
 
+
 ## 📸 Screenshots
-
-
-![asspg1](https://github.com/user-attachments/assets/9be64e5d-f741-4d8f-8dc4-706c31003600)
-
-![asspg2](https://github.com/user-attachments/assets/feb4d640-3655-4ccf-90aa-19afb3273b87)
-
-![asspg3](https://github.com/user-attachments/assets/9d2659e5-2e1d-4872-b0f2-24fa7c1e7a4a)
-
-![asspg4](https://github.com/user-attachments/assets/f2cee467-6c0b-4792-92af-32f1376f3a33)
-
-![asspg5](https://github.com/user-attachments/assets/7214a17e-cf15-4a19-9d1e-7edecf44080e)
 
 ### Authentication Screen
 
-![Authentication Screen](https://via.placeholder.com/400x300?text=Authentication+Screen)
+![asspg1](https://github.com/user-attachments/assets/ba5ca528-685e-45d3-801f-b931d405d18f)
 
 ### Invoice Dashboard
 
-![Invoice Dashboard](https://via.placeholder.com/400x300?text=Invoice+Dashboard)
+![asspg2](https://github.com/user-attachments/assets/750f5d17-d657-4026-b854-6640fc92d3c2)
 
 ### Invoice Creation Form
 
-![Invoice Creation](https://via.placeholder.com/400x300?text=Invoice+Creation)
+![asspg3](https://github.com/user-attachments/assets/8a35170c-ee20-434c-acfd-e353d7e3547f)
+
+![asspg4](https://github.com/user-attachments/assets/7e7cda59-21e0-453c-806a-c41b7a33af0e)
 
 ### Invoice Preview
 
-![Invoice Preview](https://via.placeholder.com/400x300?text=Invoice+Preview)
+![asspg5](https://github.com/user-attachments/assets/84778bea-45cf-4685-96f3-ee7e05036875)
+
 
 ## 📥 Installation & Setup
 
 ### Prerequisites
 
-- Node.js (v14 or above)
-- npm or yarn
-- MongoDB
-
-### Backend Setup
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/invoice-management-system.git
-   cd invoice-management-system
-   ```
-
-2. Navigate to the server directory:
-
-   ```bash
-   cd server
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-4. Create a `.env` file in the server directory with the following variables:
-
-   ```
-   PORT=5000
-   MONGODB_URI=mongodb://localhost:27017/invoice_app
-   JWT_SECRET=your_jwt_secret_key
-   NODE_ENV=development
-   ```
-
-5. Start the server:
-   ```bash
-   npm run dev
-   ```
-   The server will run on - Local: http://localhost:8080/
 
 ### Frontend Setup
 
@@ -235,13 +188,10 @@ npm run test
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-Your Name - [GitHub Profile](https://github.com/yourusername)
+Navkumar Biswas - [navbiswas133](https://github.com/yourusername)
 
 ```
 
